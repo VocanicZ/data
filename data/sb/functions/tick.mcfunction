@@ -1,0 +1,1 @@
+execute as @e[type=arrow,tag=!sb.finished] run function sb:arrow_tick
